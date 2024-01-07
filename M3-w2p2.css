@@ -1,0 +1,17 @@
+.subtitle {
+    margin: 50px;
+    text-align: center;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.card-shadow {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  }
+
+/*.footer {
+    display:flex;
+    align-self: center;
+}*/
