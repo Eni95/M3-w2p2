@@ -70,10 +70,6 @@ img {
     overflow: hidden;
     border-radius: 15px 15px;
 }
-/* 
-.footer {
-    justify-content: center;
-} */
 
 .footer-custom {
     border-radius: 15px 15px;
@@ -84,7 +80,3 @@ img {
 }
 
 
-/*.footer {
-    display:flex;
-    align-self: center;
-}*/
