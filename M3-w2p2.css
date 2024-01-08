@@ -1,15 +1,88 @@
 .subtitle {
     margin: 50px;
     text-align: center;
+    color: white;
+    background-color: #474A51;
+    border-radius: 25px 25px;
 }
 
 .username {
     font-weight: bold;
+    font-size: large;
+    background-color:#D2D2D2;
+    border-radius: 25px 25px;
 }
+
+.recensione p:nth-child(2n) {
+    background-color: whitesmoke;
+    border-radius: 15px 15px;
+}
+
 
 .card-shadow {
     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
   }
+
+.btn-outline-custom {
+    background-color: #D2D2D2;
+    border-color: black;
+    border-radius: 15px 15px;
+}
+
+.navbar a {
+    color: black;
+}  
+
+.jumbotron {
+    background-color:#474A51;
+    color: white;
+    border-radius: 15px 15px;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    background-image: url('file:///Users/mac/Downloads/Modulo%203%20w2p2/sfondo2.jpeg');
+    background-attachment: fixed;
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+img {
+    background-size: contain;   
+}
+
+.badge {
+    width: 30px;
+    height: 20px;
+    font-size: 15px;
+    padding: 3px;    
+}
+
+.badge-custom {
+    width: 50px;
+    height: 20px;
+    font-size: 15px; 
+}
+
+.card {
+    background-color: #ebebeb;
+    overflow: hidden;
+    border-radius: 15px 15px;
+}
+/* 
+.footer {
+    justify-content: center;
+} */
+
+.footer-custom {
+    border-radius: 15px 15px;
+}
+
+.footer-custom background-color {
+    opacity:0;
+}
+
 
 /*.footer {
     display:flex;
